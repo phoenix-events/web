@@ -4,12 +4,10 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <div style={{
-      height: '102vh',
+      height: '100vh',
       display: 'flex',
-      marginLeft:  -16,
-      marginTop: -16,
       flex:1,
-      width:'102vw',
+      width:'100vw',
       backgroundColor: '#212E3E',
       alignItems: 'center',
       justifyContent: 'center',
