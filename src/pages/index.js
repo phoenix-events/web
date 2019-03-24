@@ -6,7 +6,10 @@ const IndexPage = () => (
   <div style={{
       height: '100vh',
       display: 'flex',
+      margin:0,
       flex:1,
+      width:'100vw',
+      backgroundColor: '#212E3E',
       alignItems: 'center',
       justifyContent: 'center',
       flexDirection:'column'
@@ -28,9 +31,9 @@ const IndexPage = () => (
         </div>
     </div>
     <br/>
-    <p style={{color:'white', fontFamily: 'Atomic Age'}}>
+    <div style={{color:'white', fontFamily: 'Atomic Age'}}>
       Coming Soon...
-    </p>
+    </div>
   </div>
 )
 
