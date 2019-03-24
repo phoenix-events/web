@@ -4,7 +4,7 @@ html {
 }
 body {
   margin: 0;
-  background-color: #222F3F;
+  background: #222F3F;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
