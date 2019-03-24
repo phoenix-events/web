@@ -21,7 +21,7 @@ const IndexPage = () => (
         'fetish',
         'party'
     ]} />
-    <div style={{marginTop:-20, display:'flex', alignItems:'center',  fontFamily:'Atomic Age', fontSize:40,  color:'white'}}>
+    <div   style={{marginTop:-20, display:'flex', alignItems:'center',  fontFamily:'Atomic Age', fontSize:40,  color:'white'}}>
         <img alt='logo' src={logo} />
         <div style={{textAlign:'right', marginLeft:20}}>
             Phoenix
@@ -30,9 +30,9 @@ const IndexPage = () => (
         </div>
     </div>
     <br/>
-    <div style={{color:'white', fontFamily: 'Atomic Age'}}>
+    <p style={{color:'white', fontFamily: 'Atomic Age'}}>
       Coming Soon...
-    </div>
+    </p>
   </div>
 )
 
