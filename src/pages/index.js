@@ -25,7 +25,7 @@ const IndexPage = () => (
         <img alt='logo' src={logo} />
         <div style={{textAlign:'right', marginLeft:20}}>
             Phoenix
-            <br/><br/>
+            <br/>
             Events
         </div>
     </div>
