@@ -7,6 +7,7 @@ const IndexPage = () => (
       backgroundColor: '#222F3F',
       height: '100vh',
       display: 'flex',
+      margin:0,
       flex:1,
       alignItems: 'center',
       justifyContent: 'center',
