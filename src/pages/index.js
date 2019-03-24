@@ -6,7 +6,8 @@ const IndexPage = () => (
   <div style={{
       height: '100vh',
       display: 'flex',
-      margin:0,
+      marginLeft:  -16,
+      marginTop: -16,
       flex:1,
       width:'100vw',
       backgroundColor: '#212E3E',
