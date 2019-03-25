@@ -13,7 +13,6 @@ const IndexPage = () => (
 
   }} >
 
-
     <SEO title="Home" keywords={[
         `phoenix`,
         `event`,
