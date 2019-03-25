@@ -12,6 +12,7 @@ const IndexPage = () => (
       flexDirection:'column'
 
   }} >
+    
     <SEO title="Home" keywords={[
         `phoenix`,
         `event`,
